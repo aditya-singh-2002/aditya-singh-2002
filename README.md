@@ -1,12 +1,13 @@
 <div align="center">
-<img src="giphy.gif" align="center" style="width: 100%" />
+<img src="giphy.gif" align="center" style="width: 100%" align="center" height="325"/>
 </div>  
 
+# <div align="center"> Amateur Developer </div>
+### <div align="center"> 🚧 My portfolio is currently in progress 🚧 </div><br />  
 
-### <div align="center">I'm Aditya</div>  
 
-<!--
-**aditya-singh-2002/aditya-singh-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!--**aditya-singh-2002/aditya-singh-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 
 - 🌱 I’m currently learning React and Angular
 - 📧 Reach me at [adityasinghdhs@gmail.com](mailto:adityasinghdhs@gmail.com)

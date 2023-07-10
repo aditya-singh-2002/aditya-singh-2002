@@ -7,6 +7,8 @@
 - ⚡ Fun fact: I have done Martial Arts for 14 years and competed at the peak of competitive excellence
 
 <br>
+
+<div align= "center">
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
@@ -24,6 +26,9 @@
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+
   </div>
 
 </td></tr></table>  

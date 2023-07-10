@@ -3,17 +3,23 @@
 </div>  
 
 # <div align="center"> Amateur Developer </div>
-### <div align="center"> 🚧 My portfolio is currently in progress 🚧 </div><br />  
+### <div align="center"> 🚧 My portfolio (site) is currently in progress 🚧 </div><br />  
 
 
 <!--**aditya-singh-2002/aditya-singh-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 - 🌱 I’m currently learning React and Angular
+
+  
 - 📧 Reach me at [adityasinghdhs@gmail.com](mailto:adityasinghdhs@gmail.com)
+
+  
 - ⚡ Fun fact: I have done Martial Arts for 14 years and competed at the peak of competitive excellence
 
+
 <br>
+
 
 <div align= "center">
 <table><tr><td valign="top" width="33%">
@@ -49,6 +55,9 @@
 <a href="https://www.linkedin.com/in/aditya-singh-8b47a6271/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
+<a href="https://www.instagram.com/grasshopperval" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
 </div>  
   <br/>  
 

@@ -2,7 +2,7 @@
 <img src="giphy.gif" align="center" height="325"/>
 </div>  
 
-# <div align="center"> Amateur Developer </div>
+# <div align="center"> Novice Developer </div>
 ### <div align="center"> 🚧 My portfolio (site) is currently in progress 🚧 </div><br />  
 
 

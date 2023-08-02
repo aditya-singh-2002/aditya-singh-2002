@@ -2,9 +2,7 @@
 <img src="giphy.gif" align="center" height="325"/>
 </div>  
 
-# <div align="center"> Novice Developer </div>
-### <div align="center"> 🚧 My portfolio (site) is currently in progress 🚧 </div><br />  
-
+# <div align="center"> Novice Developer </div> 
 
 <!--**aditya-singh-2002/aditya-singh-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 

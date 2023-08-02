@@ -9,6 +9,9 @@
 
 - 🌱 I’m currently learning React and Angular
 
+
+- 💻 All of my projects are available at [https://aditya-singh-2002.github.io/]
+
   
 - 📧 Reach me at [adityasinghdhs@gmail.com](mailto:adityasinghdhs@gmail.com)
 
